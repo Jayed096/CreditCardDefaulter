@@ -10,11 +10,11 @@ There are several ways in which Bank earn their money. Most of the money earn by
 ### Deafulter means:   
 People who do not pay their due they are called as defaulters from the Bank.
 # Some screenshots of the app
+* About Project Architeture:
+![About Project Architeture](githubimage/ccdarchiture.PNG)
 * Landing Page:
-![Landing Page](githubimgs/ccdlandingpage.PNG)
-* About Rainy Brain:
-![About](githubimgs/about.png)
-* Dashboard:
-![Dashboard](githubimgs/dashboard.png)
-* Developer:
+![Landing Page](githubimage/ccdlandingpage.PNG)
+* Prediction Page:
+![Prediction Page](githubimage/ccdprediction.PNG)
+
 
