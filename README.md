@@ -1,13 +1,13 @@
 # CreditCardDefaulter
 # Problem Statement
-Problem Statement is to build such a model which identifies weather a customer is going deafult for the credit card payment or not.
+Problem Statement is to build such a model which identifies weather a customer is going default for the credit card payment or not.
 ##### why it is necessary to identifies defaulter:
 There are several ways in which Bank earn their money. Most of the money earn by the bank are from interest charge on the credit given to different customer.
- From this Problem Statement bank is trying to forcast of what will be the InFlow of money that they are going to recieved, 
+ From this Problem Statement bank is trying to forecast of what will be the InFlow of money that they are going to recieved.
  Based in this model Bank will see which customer is going to Pay or Default.
 
 
-### Deafulter means:   
+### Defaulter means:   
 People who do not pay their due they are called as defaulters from the Bank.
 # Some screenshots of the app
 * About Project Architecture:
